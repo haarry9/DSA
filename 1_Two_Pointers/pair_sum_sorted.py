@@ -25,6 +25,6 @@ def pair_sum_sorted(arr, target):
 
 
 
-arr = [-5,-2,3,4,6]
-print(pair_sum_sorted_brute_force(arr,7))
-print(pair_sum_sorted(arr,7))
+arr = [-3,-2,-1]
+# print(pair_sum_sorted_brute_force(arr,7))
+print(pair_sum_sorted(arr,-5))
